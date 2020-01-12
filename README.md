@@ -1,6 +1,6 @@
 # auto-tester
 #### A bash script for automating testing to standard out
-The first line of a test is the exectuable to be run, and all further lines are the desired output. The script runs the exectuable and checks its output against the desired output. Make sure you have execute permissions on the executables.
+The first line of a test is the exectuable to be run, and all further lines are the desired output. The script runs the exectuable and checks its output against the desired output. Make sure you have execute permissions on the executables, and that all files used are in the same folder.
 
 The -h flag displays all flags and their descriptions. The -a and -c flags are for testing C code.
 
